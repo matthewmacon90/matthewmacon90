@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @matthewmacon90
-- 👀 I’m interested in coding and growing as a software developer.
-- 🌱 Software Engineer @ Sallie Mae
-- 💞️ Finishing up Springboard Software Engineering Program
+- 🌱 Full-Stack Software Engineer @ Sallie Mae
+- 💞️ Graduated from Springboard Software Engineering Program and Nucamp Coding Bootcamp
 - 📫 Email: matthewmacon90@gmail.com
 
 <!---
