@@ -15,15 +15,16 @@ Password: `youCanHireMeToday!1`
 ## Details 
 - **Frontend:** Deployed via S3 and CloudFront as a React App in AWS.
 - **Backend:** Hosted on an EC2 Express server.
-- **Database:** Connected to both the Blizzard API and MongoDB.
+- **Database:** Connected to MongoDB and using Mongoose as my ODM.
 - **Caching:** Using Redis to cache data and reduce DB calls.
+- **API:** Blizzard API & RaiderIO API
 - **API Management:** Implemented API throttling to stay within Blizzard's API terms of use.
 
 ## Technologies 
-- **Frontend:** React, AWS S3, AWS CloudFront
+- **Frontend:** React, AWS S3, AWS CloudFront, AWS Cognito
 - **Backend:** Express, AWS EC2
 - **Database:** MongoDB, Redis
-- **APIs:** Blizzard API
+- **APIs:** Blizzard API & RaiderIO API
 
 ## Current Status While the staging application isn't perfect, it's designed for testing purposes to simulate a real production atmosphere.
 
