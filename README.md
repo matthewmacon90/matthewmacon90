@@ -4,8 +4,6 @@
 - 📫 Email: matthewmacon90@gmail.com
 
 ### Sons of Thunder Project 
-
-#### Check Out the Project! 
 [Visit Sons of Thunder](https://stage.sonsofthunder.io/) 
 Username: `sons.of.thunder.wow@gmail.com` 
 Password: `youCanHireMeToday!1` 
