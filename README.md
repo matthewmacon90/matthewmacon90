@@ -3,14 +3,7 @@
 - 💞️ Graduated from Springboard Software Engineering Program and Nucamp Coding Bootcamp
 - 📫 Email: matthewmacon90@gmail.com
 
-- Check out my project!
-- https://stage.sonsofthunder.io/
-- username: sons.of.thunder.wow@gmail.com
-- password: youCanHireMeToday!1
-
--My project will be in production for users to use in the near future. 
-Details: The frontend is served through s3 and cloudfront as a React App in AWS while the backend is Ec2 Express server that is connected to both the Blizzard api and mongodb for the database. Additionally, I am using Redis to cache data and reduce the amount of calls to the DB. I've also implemented API throttling to stay within bounds of Blizzard's API terms of use service. 
-The staging application does is imperfect, but it is meant for me to test, my friends to test, and provide an enviorment to simulate a low-level production atmosphere.
+- # Sons of Thunder Project ## Check Out the Project! [Visit Sons of Thunder](https://stage.sonsofthunder.io/) Username: `sons.of.thunder.wow@gmail.com` Password: `youCanHireMeToday!1` ## Overview My project will soon be available for users to enjoy! It's currently in a staging phase where I and my friends can test it, simulating a low-level production environment. ## Details - **Frontend:** Deployed via S3 and CloudFront as a React App in AWS. - **Backend:** Hosted on an EC2 Express server. - **Database:** Connected to both the Blizzard API and MongoDB. - **Caching:** Using Redis to cache data and reduce DB calls. - **API Management:** Implemented API throttling to stay within Blizzard's API terms of use. ## Technologies - **Frontend:** React, AWS S3, AWS CloudFront - **Backend:** Express, AWS EC2 - **Database:** MongoDB, Redis - **APIs:** Blizzard API ## Current Status While the staging application isn't perfect, it's designed for testing purposes to simulate a real production atmosphere.
 
 <!---
 matthewmacon90/matthewmacon90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
