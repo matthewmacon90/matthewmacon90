@@ -19,6 +19,7 @@ Password: `youCanHireMeToday!1`
 - **Caching:** Using Redis to cache data and reduce DB calls.
 - **API:** Blizzard API & RaiderIO API
 - **API Management:** Implemented API throttling to stay within Blizzard's API terms of use.
+- **Automated Pipeline:** Implmented a pipeline with Github Actions to automate deployments from the dev to staging branches.
 
 ## Technologies 
 - **Frontend:** React, AWS S3, AWS CloudFront, AWS Cognito
