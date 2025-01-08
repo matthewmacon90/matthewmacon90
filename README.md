@@ -8,7 +8,7 @@
 Username: `sons.of.thunder.wow@gmail.com` 
 Password: `youCanHireMeToday!1` 
 
-#### Overview My project will soon be available for users to enjoy! It's currently in a staging phase where I and my friends can test it, simulating a low-level production environment. 
+#### Overview: My project will soon be available for users to enjoy! It's currently in a staging phase where I and my friends can test it, simulating a low-level production environment. 
 
 #### Details 
 - **Frontend:** Deployed via S3 and CloudFront as a React App in AWS.
